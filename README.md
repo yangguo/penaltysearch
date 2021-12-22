@@ -1,5 +1,5 @@
 ---
-title: Penaltysearch
+title: Penalty caces analysis
 emoji: 🌖
 colorFrom: yellow
 colorTo: gray
